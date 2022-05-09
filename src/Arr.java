@@ -33,14 +33,16 @@ public class Arr {
         System.out.println(size);
 
         String[] bmwArr = new String[size];
-        bmwArr[0]=String.valueOf(bmw.charAt(0));
-        bmwArr[1]=String.valueOf(bmw.charAt(1));
-        bmwArr[2]=String.valueOf(bmw.charAt(2));
-
+        bmwArr[0]=String.valueOf(bmw.charAt(0));//B
+        bmwArr[1]=String.valueOf(bmw.charAt(1));//M
+        bmwArr[2]=String.valueOf(bmw.charAt(2));//W
+        bmwArr[2]="N";
 
         System.out.println(bmwArr[0]);
         System.out.println(bmwArr[1]);
         System.out.println(bmwArr[2]);
+
+
 
 
     }
