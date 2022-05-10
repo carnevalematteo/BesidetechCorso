@@ -7,4 +7,19 @@ public class UtilityMethods {
         }
         return arrayNum;
     }
+
+
+    public void dammiUnNumeroCheNonSia0(int numero) throws ConversioneNumeroException {
+
+        if(numero!=0){
+            System.out.println("numero");
+        }
+        else{
+
+            throw new ConversioneNumeroException("errore è stato fornito un numero non abilitato");
+        }
+    }
+
+
+
 }
