@@ -6,10 +6,10 @@ public class FilterW {
      * questo medoto dato un array in ingresso filtra lo stesso per creare un nuovo
      * array nel quale verràno inserite eventuali parole ripetute.
      * @author matteo carnevale.
-     * @param parole rappresenta l'array contenente le parole.
+     * @param   parole rappresenta l'array contenente le parole.
      * @return un array contenente esclusivamente le parole doppioni senza ripetizioni.
      */
-    public void filterWord(String[] parole){
+    public String[] filterWord(String[] parole){
 
         String [] foundWord= new String[parole.length/2];
 
@@ -55,6 +55,7 @@ public class FilterW {
         }
 
         System.out.println(Arrays.toString(result));
+        return result;
     }
 
 }
