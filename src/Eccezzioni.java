@@ -1,6 +1,6 @@
 public class Eccezzioni {
 
-    public static void main(String[] args) throws ConversioneNumeroException {
+    public static void main(String[] args)  {
 
         //PROVA A FARE QUESTO
         try {
@@ -18,6 +18,9 @@ public class Eccezzioni {
             numeri[0] = 10;
 
         }
+
+
+        String [] parole ={"ciao","ciaoo"};
 
         UtilityMethods utilityMethods = new UtilityMethods();
 
