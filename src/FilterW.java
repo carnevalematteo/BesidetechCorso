@@ -19,26 +19,27 @@ public class FilterW {
 
         int count =0;
 
-        for(int i=0,j=1;i<parole.length && j< parole.length-1;i++,j++){
+        for(int i=0;i<parole.length ;i++){
+            for(int j= 1; j< parole.length-1;j++) {
 
-            if(parole[i].equals(parole[i+1])){
 
-                lastWord=parole[i];
+                if (parole[i].equals(parole[j]) && !parole[i].equals("") && i!=j) {
 
-                for(String s : parole){
+                    lastWord = parole[i];
 
-                    if (s.equals(lastWord)){
+                    for (int z=0 ;z< parole.length;z++) {
 
-                        s="";
+                        if (parole[z].equals(lastWord)) {
+
+                            parole[z] = "";
+                        }
                     }
+
+                    foundWord[count] = lastWord;
+                    count++;
+
                 }
-
-
-                foundWord[count]=lastWord;
-                count++;
-
             }
-
         }
 
         int pos = 0;
