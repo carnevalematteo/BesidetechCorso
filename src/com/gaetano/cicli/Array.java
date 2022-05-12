@@ -1,4 +1,4 @@
-package corso.cicli;
+package com.cicli;
 
 public class Array {
     public static void main(String[] args) {
