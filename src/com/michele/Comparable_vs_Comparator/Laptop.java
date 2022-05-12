@@ -1,4 +1,4 @@
-package com.Comparable_vs_Comparator;
+package com.michele.Comparable_vs_Comparator;
 
 public class Laptop {
 

@@ -1,4 +1,4 @@
-package com.Eccezioni;
+package com.michele.Eccezioni;
 
 public class Studente {
     private String nome;

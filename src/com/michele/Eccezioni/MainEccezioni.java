@@ -1,4 +1,4 @@
-package com.Eccezioni;
+package com.michele.Eccezioni;
 
 //Gestire le eccezioni
 // Sintassi
