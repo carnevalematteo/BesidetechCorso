@@ -1,19 +1,21 @@
 package com.michele.Comparable_vs_Comparator;
 
-public class Laptop {
+//Il metodo Comparable necessita dell'implementazione
+public class Laptop /*implements Comparable<Laptop>*/ {
 
     private String brand;
     private int ram;
     private int price;
 
-    @Override
-    public String toString() {
-        return "Laptop{" +
-                "brand='" + brand + '\'' +
-                ", ram=" + ram +
-                ", price=" + price +
-                '}';
+    public Laptop(String brand, int ram, int price) {
+        this.brand = brand;
+        this.ram = ram;
+        this.price = price;
     }
+
+    public Laptop() {
+    }
+
 
     public String getBrand() {
         return brand;
@@ -39,4 +41,21 @@ public class Laptop {
         this.price = price;
     }
 
+    @Override
+    public String toString() {
+        return "Laptop{" +
+                "brand='" + brand + '\'' +
+                ", ram=" + ram +
+                ", price=" + price +
+                '}';
+    }
+
+    /*@Override
+    public int compareTo(Laptop lap2) {
+        if(this.getRam() > lap2.getRam()){
+            return 1;
+
+        }
+        return -1;
+    }*/
 }
