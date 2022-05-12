@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TreeSetExemple">
+  <component name="RunManager" selected="Application.HashExemple (1)">
     <configuration name="CastNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CastNum" />
       <module name="Corso" />
@@ -49,9 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterWTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FilterWTest" />
+    <configuration name="HashExemple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corso.HashExemple" />
       <module name="Corso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,19 +84,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FilterWTest" />
       <item itemvalue="Application.CastNum" />
       <item itemvalue="Application.ListExemple" />
       <item itemvalue="Application.HashExemple" />
       <item itemvalue="Application.TreeSetExemple" />
+      <item itemvalue="Application.HashExemple (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetExemple" />
+        <item itemvalue="Application.HashExemple (1)" />
         <item itemvalue="Application.HashExemple" />
         <item itemvalue="Application.ListExemple" />
+        <item itemvalue="Application.TreeSetExemple" />
         <item itemvalue="Application.CastNum" />
-        <item itemvalue="Application.FilterWTest" />
       </list>
     </recent_temporary>
   </component>

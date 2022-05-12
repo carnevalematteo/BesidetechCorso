@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.corso;
 
 public class TestArrayNum {
 

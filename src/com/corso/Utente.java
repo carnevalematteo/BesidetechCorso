@@ -1,3 +1,5 @@
+package com.corso;
+
 import java.util.Objects;
 
 public class Utente implements  Comparable<Utente>{

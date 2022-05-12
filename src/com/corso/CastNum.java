@@ -1,4 +1,5 @@
-import java.util.Random;
+package com.corso;
+
 import java.util.UUID;
 
 public class CastNum {

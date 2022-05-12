@@ -1,3 +1,5 @@
+package com.corso;
+
 public class Eccezzioni {
 
     public static void main(String[] args)  {
