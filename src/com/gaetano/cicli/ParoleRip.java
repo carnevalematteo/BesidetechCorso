@@ -1,7 +1,5 @@
 package com.gaetano.cicli;
 
-import java.util.Arrays;
-
 public class ParoleRip {
 
     public String[] paroleRipetute(String lista[]) throws EmptyException {
