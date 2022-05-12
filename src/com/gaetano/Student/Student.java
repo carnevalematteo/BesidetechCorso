@@ -1,4 +1,4 @@
-package com.Student;
+package com.gaetano.Student;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,6 +11,7 @@ public class Student implements UtilityStudent {
     private Integer id;
     private Integer age;
     private String city;
+    private Integer cf;
 
     public Student() {
 

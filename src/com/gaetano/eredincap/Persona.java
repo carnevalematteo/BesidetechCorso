@@ -1,4 +1,4 @@
-package corso.eredincap;
+package com.gaetano.eredincap;
 
 public class Persona extends Utility {
 
@@ -9,6 +9,9 @@ public class Persona extends Utility {
 
 
     public Persona() {
+    }
+
+    public static boolean somma(int i, int i1) {
     }
 
 

@@ -1,4 +1,4 @@
-package corso.casa;
+package com.gaetano.casa;
 
 public class Casa {
 

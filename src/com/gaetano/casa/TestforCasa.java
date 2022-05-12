@@ -1,4 +1,4 @@
-package corso.casa;
+package com.gaetano.casa;
 
 
 import corso.eredincap.Persona;
@@ -16,8 +16,8 @@ public class TestforCasa {
         casa1.setNumLong(437755);
         casa1.setVendesi(false);
         casa1.setNomeVia("Corso Mazzini");
-        Personale cuoco=new Cuoco();
-        Personale cameriere=new Cameriere();
+        Personale cuoco= (Personale) new Cuoco();
+        Personale cameriere= (Personale) new Cameriere();
         Cuoco cuoco2=new Cuoco();
         Cameriere cameriere2=new Cameriere();
         cuoco2.prova();

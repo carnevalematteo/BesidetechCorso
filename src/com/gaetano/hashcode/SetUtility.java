@@ -1,4 +1,4 @@
-package com.hashcode;
+package com.gaetano.hashcode;
 
 import java.util.Set;
 

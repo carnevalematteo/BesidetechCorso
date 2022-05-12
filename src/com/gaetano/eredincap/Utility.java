@@ -1,4 +1,4 @@
-package corso.eredincap;
+package com.gaetano.eredincap;
 
 public abstract class Utility {
 

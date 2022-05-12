@@ -1,6 +1,5 @@
-package com.hashcode;
+package com.gaetano.hashcode;
 
-import com.Student.UtilityStudent;
 
 import java.util.Objects;
 
@@ -11,7 +10,18 @@ public class Student {
         private Integer age;
         private String city;
 
-        public String getName() {
+    public Student(String name, String surname, Integer id, Integer age, String city) {
+        this.name = name;
+        this.surname = surname;
+        this.id = id;
+        this.age = age;
+        this.city = city;
+    }
+
+    public Student() {
+    }
+
+    public String getName() {
             return name;
         }
 
