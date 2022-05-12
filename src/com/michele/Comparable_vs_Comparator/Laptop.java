@@ -16,7 +16,6 @@ public class Laptop /*implements Comparable<Laptop>*/ {
     public Laptop() {
     }
 
-
     public String getBrand() {
         return brand;
     }
