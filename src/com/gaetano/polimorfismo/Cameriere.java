@@ -1,4 +1,4 @@
-package corso.polimorfismo;
+package com.gaetano.polimorfismo;
 
 public class Cameriere implements Personale {
 

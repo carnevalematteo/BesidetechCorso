@@ -1,4 +1,4 @@
-package corso.eredincap;
+package com.gaetano.eredincap;
 
 public class Studente extends Persona implements Anagrafica{
 

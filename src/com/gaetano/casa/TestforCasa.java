@@ -1,10 +1,11 @@
 package com.gaetano.casa;
 
 
-import corso.eredincap.Persona;
-import corso.polimorfismo.Cameriere;
-import corso.polimorfismo.Cuoco;
-import corso.polimorfismo.Personale;
+import com.gaetano.eredincap.Persona;
+import com.gaetano.polimorfismo.Cameriere;
+import com.gaetano.polimorfismo.Cuoco;
+import com.gaetano.polimorfismo.Personale;
+
 
 public class TestforCasa {
     public static void main(String[] args) {

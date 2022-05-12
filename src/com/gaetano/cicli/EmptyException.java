@@ -1,4 +1,4 @@
-package com.cicli;
+package com.gaetano.cicli;
 
 public class EmptyException extends Exception {
     public static final long serialVersionUID= 1L;

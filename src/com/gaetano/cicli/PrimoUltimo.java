@@ -1,4 +1,4 @@
-package corso.cicli;
+package com.gaetano.cicli;
 
 import java.util.Scanner;
 

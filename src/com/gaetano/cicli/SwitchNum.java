@@ -1,4 +1,4 @@
-package corso.cicli;
+package com.gaetano.cicli;
 
 public class SwitchNum {
     public static void main(String[] args) {

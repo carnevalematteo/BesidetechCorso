@@ -11,10 +11,6 @@ public class Persona extends Utility {
     public Persona() {
     }
 
-    public static boolean somma(int i, int i1) {
-    }
-
-
     public String getName() {
         return name;
     }

@@ -1,7 +1,5 @@
-package corso.eredincap;
+package com.gaetano.eredincap;
 
-
-import java.util.Scanner;
 
 public class TestMain {
 

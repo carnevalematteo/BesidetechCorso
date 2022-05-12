@@ -1,7 +1,7 @@
-package com.TreeSet;
+package com.gaetano.TreeSet;
 
-import com.Student.Student;
-import com.hashcode.SetUtility;
+import com.gaetano.Student.Student;
+
 
 import java.util.Set;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package corso.cicli;
+package com.gaetano.cicli;
 
 public class DoWhile {
     public static void main(String[] args) {
