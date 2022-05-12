@@ -1,4 +1,6 @@
-public class Utente {
+import java.util.Objects;
+
+public class Utente implements  Comparable<Utente>{
 
     private String nome;
 
@@ -27,10 +29,29 @@ public class Utente {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Utente utente = (Utente) o;
+        return Objects.equals(nome, utente.nome) && Objects.equals(cognome, utente.cognome);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(nome, cognome);
+    }
+
+    @Override
     public String toString() {
         return "Utente{" +
                 "nome='" + nome + '\'' +
                 ", cognome='" + cognome + '\'' +
                 '}';
     }
+
+    @Override
+    public int compareTo(Utente o) {
+        return this.nome.compareTo(o.nome);
+    }
 }
+

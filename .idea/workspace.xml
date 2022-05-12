@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="exception">
+    <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="fix exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Corso/Arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Corso/Arr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Corso/TestArrayNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Corso/TestArrayNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Corso/UtilityMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eccezzioni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eccezzioni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestArrayNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UtilityMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,49 +41,56 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Argoments">
-    <configuration name="Argoments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Argoments" />
-      <module name="Corso" />
-      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5" />
-      <option name="VM_PARAMETERS" value="-Dmatteo=carnevale" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr" />
+  <component name="RunManager" selected="Application.TreeSetExemple">
+    <configuration name="CastNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CastNum" />
       <module name="Corso" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eccezzioni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eccezzioni" />
+    <configuration name="FilterWTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilterWTest" />
       <module name="Corso" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestArrayNum" />
+    <configuration name="HashExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashExemple" />
+      <module name="Corso" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListExemple" />
+      <module name="Corso" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeSetExemple" />
       <module name="Corso" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Argoments" />
-      <item itemvalue="Application.Arr" />
-      <item itemvalue="Application.Eccezzioni" />
-      <item itemvalue="Application.TestArrayNum" />
+      <item itemvalue="Application.FilterWTest" />
+      <item itemvalue="Application.CastNum" />
+      <item itemvalue="Application.ListExemple" />
+      <item itemvalue="Application.HashExemple" />
+      <item itemvalue="Application.TreeSetExemple" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Argoments" />
-        <item itemvalue="Application.Eccezzioni" />
-        <item itemvalue="Application.Arr" />
-        <item itemvalue="Application.TestArrayNum" />
+        <item itemvalue="Application.TreeSetExemple" />
+        <item itemvalue="Application.HashExemple" />
+        <item itemvalue="Application.ListExemple" />
+        <item itemvalue="Application.CastNum" />
+        <item itemvalue="Application.FilterWTest" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +124,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652185964114</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arguments">
+      <created>1652259781810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652259781810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix exercise">
+      <created>1652262897115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652262897115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix exercise">
+      <created>1652272210296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652272210296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix exercise">
+      <created>1652272220744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652272220744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +169,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array exemple" />
     <MESSAGE value="exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception" />
+    <MESSAGE value="arguments" />
+    <MESSAGE value="fix exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListExemple.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
