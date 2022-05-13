@@ -3,7 +3,7 @@ package com.gaetano.hashcode;
 
 import java.util.Objects;
 
-public class Student {
+public class Student implements Comparable<Student> {
         private String name;
         private String surname;
         private Integer id;
@@ -71,17 +71,21 @@ public class Student {
                     ", city='" + city + '\'' +
                     '}';
         }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Student student = (Student) o;
-        return name.equals(student.name) && surname.equals(student.surname) && id.equals(student.id) && age.equals(student.age) && city.equals(student.city);
+        return id.equals(student.id);
     }
-
     @Override
     public int hashCode() {
-        return Objects.hash(id);
+        return Objects.hash(name);
+    }
+
+
+    @Override
+    public int compareTo(Student o) {
+        return this.id.compareTo(o.getId());
     }
 }

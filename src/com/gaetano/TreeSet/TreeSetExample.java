@@ -26,7 +26,7 @@ public class TreeSetExample {
 
         Student stud1 = new Student("Mario","Rossi",567,27,"Roma");
         Student stud2 = new Student("Luca","Bianchi",345,23,"Milano");
-        Student stud3 = new Student("Giovanni","Verdi",215,25,"Napoli");
+        Student stud3 = new Student("Giovanni","Verdi",345,25,"Napoli");
 
 
 
