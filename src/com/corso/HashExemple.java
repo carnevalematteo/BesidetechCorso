@@ -30,8 +30,9 @@ public class HashExemple {
         //stringSet.forEach(s -> System.out.println(s));
 
         Utente utente1= new Utente("matteo","carnevale");
-        Utente utente2 = new Utente("matteo","Carnevale".toLowerCase());
+        Utente utente2 = new Utente("matteo","carnevale");
         Utente utente3 = utente1;
+        Utente utente4 = null;
 
         System.out.println(utente1.hashCode());
         System.out.println(utente2.hashCode());

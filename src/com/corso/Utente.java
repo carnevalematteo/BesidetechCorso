@@ -38,10 +38,7 @@ public class Utente implements  Comparable<Utente>{
         return Objects.equals(nome, utente.nome) && Objects.equals(cognome, utente.cognome);
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(nome, cognome);
-    }
+
 
     @Override
     public String toString() {
