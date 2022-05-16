@@ -33,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28v6mitlS2x14DJiAT8Ma2odAy6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +50,7 @@
       <recent name="C:\Users\matte\BesidetechCorso\src\com\corso" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapExemple">
+  <component name="RunManager" selected="Application.LogClass">
     <configuration name="HashExemple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corso.HashExemple" />
       <module name="Corso" />
@@ -68,9 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExemple" />
+    <configuration name="LogClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.log.LogClass" />
       <module name="Corso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaetano.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListExemple" />
       <item itemvalue="Application.HashExemple" />
       <item itemvalue="Application.HashExemple (1)" />
       <item itemvalue="Application.TreeSetExemple (1)" />
       <item itemvalue="Application.MapExemple" />
+      <item itemvalue="Application.LogClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LogClass" />
         <item itemvalue="Application.MapExemple" />
         <item itemvalue="Application.TreeSetExemple (1)" />
         <item itemvalue="Application.HashExemple (1)" />
         <item itemvalue="Application.HashExemple" />
-        <item itemvalue="Application.ListExemple" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +201,9 @@
     </task>
     <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

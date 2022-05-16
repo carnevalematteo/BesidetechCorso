@@ -7,8 +7,16 @@ public class Operazione {
     public static int moltiplicazione(int a, int b){
         logg.info("Metodo inizializzato");
         int risultato = a*b;
-        logg.info("Operazione eseguita" + risultato);
+        logg.info("Operazione eseguita " + risultato);
         return risultato;
+    }
+
+    public static int pow(int x){
+        logg.info("Inzio del metodo");
+        int risultato= x*x;
+        logg.warning("Operazione eseguita " + risultato);
+        return risultato;
+
     }
 
 }

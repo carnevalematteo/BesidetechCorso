@@ -1,0 +1,34 @@
+Index: src/com/gaetano/cicli/Array.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.gaetano.cicli;\r\n\r\npublic class Array {\r\n    public static void main(String[] args) {\r\n        int num []= new int[10];\r\n        for(int i=0; i<=num.length;i++){\r\n            num[i]= i+1;\r\n            System.out.println(num[i]);\r\n        }\r\n\r\n\r\n        }\r\n\r\n\r\n    }\r\n\r\n\r\n\r\n
+===================================================================
+diff --git a/src/com/gaetano/cicli/Array.java b/src/com/gaetano/cicli/Array.java
+--- a/src/com/gaetano/cicli/Array.java	
++++ b/src/com/gaetano/cicli/Array.java	
+@@ -1,14 +1,23 @@
+ package com.gaetano.cicli;
+ 
++import java.util.ArrayList;
++import java.util.List;
++
+ public class Array {
+     public static void main(String[] args) {
+         int num []= new int[10];
+-        for(int i=0; i<=num.length;i++){
++        for(int i=0; i<num.length;i++){
+             num[i]= i+1;
+-            System.out.println(num[i]);
++            System.out.println(num[i] + " ");
++
+         }
+ 
++        List<Integer> numeri = new ArrayList<>();
++        for(int i=1; i<11;i++){
++            numeri.add(i);
+ 
++        }
++        System.out.println(numeri);
+         }
+ 
+ 

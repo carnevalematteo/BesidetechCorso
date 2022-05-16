@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_16_05_2022_12_291" date="1652696973640" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_05_2022_12_291/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 16/05/2022 12:29" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/Corso/com/corso/Utente.class" />
+    <option name="AFTER_PATH" value="out/production/Corso/com/corso/Utente.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_05_2022_12_291/Utente.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/Corso/com/gaetano/map/MapExample.class" />
+    <option name="AFTER_PATH" value="out/production/Corso/com/gaetano/map/MapExample.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_05_2022_12_291/MapExample.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/Corso/com/corso/HashExemple.class" />
+    <option name="AFTER_PATH" value="out/production/Corso/com/corso/HashExemple.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_05_2022_12_291/HashExemple.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/Corso/com/gaetano/cicli/Array.class" />
+    <option name="AFTER_PATH" value="out/production/Corso/com/gaetano/cicli/Array.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_05_2022_12_291/Array.class" />
+  </binary>
+</changelist>
