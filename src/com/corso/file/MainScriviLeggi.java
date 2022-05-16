@@ -8,8 +8,15 @@ public class MainScriviLeggi {
 
         ScriviLeggi scrivi = new ScriviLeggi();
 
-        scrivi.write("ciao");
+        //scrivi.write("host=xxx.xxx.xxx");
+       // scrivi.write("lang=it");
 
-        scrivi.readItem();
+        //scrivi.readItem();
+
+        //scrivi.splitReadFile();
+
+        String result = scrivi.getConfig("host2");
+
+        System.out.println(result);
     }
 }
