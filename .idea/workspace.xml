@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="solution exercise">
+    <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="file">
+      <change afterPath="$PROJECT_DIR$/src/com/corso/Log.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/file/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/file/MainScriviLeggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/MainScriviLeggi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/file/ScriviLeggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/ScriviLeggi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652696918463</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="file">
+      <created>1652698505694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652698505694</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +251,7 @@
     <MESSAGE value="fix exercise" />
     <MESSAGE value="hash end tree set" />
     <MESSAGE value="solution exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution exercise" />
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
   </component>
 </project>
