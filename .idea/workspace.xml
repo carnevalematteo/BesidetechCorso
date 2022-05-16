@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="solution exercise">
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Autocarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Autoveicolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/MainScriviLeggi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Mainveicoli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/ScriviLeggi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corso/file/Veicolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corso/file/Autoveicolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/Autoveicolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corso/file/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/File.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,20 @@
       <recent name="C:\Users\matte\BesidetechCorso\src\com\corso" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainScriviLeggi">
+  <component name="RunManager" selected="Application.File">
+    <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corso.file.File" />
+      <module name="Corso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corso.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainScriviLeggi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corso.file.MainScriviLeggi" />
       <module name="Corso" />
@@ -108,33 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExemple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corso.TreeSetExemple" />
-      <module name="Corso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.corso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.MapExemple" />
       <item itemvalue="Application.MapExercise" />
-      <item itemvalue="Application.TreeSetExemple (1)" />
       <item itemvalue="Application.Mainveicoli" />
       <item itemvalue="Application.MainScriviLeggi" />
+      <item itemvalue="Application.File" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.File" />
         <item itemvalue="Application.MainScriviLeggi" />
         <item itemvalue="Application.Mainveicoli" />
         <item itemvalue="Application.MapExercise" />
         <item itemvalue="Application.MapExemple" />
-        <item itemvalue="Application.TreeSetExemple (1)" />
       </list>
     </recent_temporary>
   </component>

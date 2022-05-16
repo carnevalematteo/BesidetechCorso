@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class File {
 
-    static String pathAuto = "C:\\Users\\carne\\db1.txt";
+    static String pathAuto = "C:\\Users\\matte\\db1.txt";
 
     static List<Autoveicolo> elencoAuto = new ArrayList();
 
@@ -15,14 +15,7 @@ public class File {
     public static void main(String[] args) throws IOException {
 
 
-
-
-
         creaNuovoFile(pathAuto);
-
-
-
-
         Menu();
 
 
@@ -82,9 +75,6 @@ public class File {
 
         ObjectInputStream objectInputStream = null;
         Autoveicolo autoveicolo = null;
-        Moto moto = null;
-        Autocarro autocarro = null;
-        Persona persona = null;
 
 
 
@@ -166,7 +156,7 @@ public class File {
         String tipo = input2.nextLine();
 
             Autoveicolo auto;
-            auto = new Autoveicolo(targa,marca,modello,n,tipo);
+            auto = new Autoveicolo(targa,marca,modello,n);
             elencoAuto.add(auto);
             scriveSuFile(elencoAuto, pathAuto);
 
