@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="solution exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/file/Autoveicolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/Autoveicolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/corso/file/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corso/file/MainScriviLeggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/MainScriviLeggi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corso/file/ScriviLeggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/file/ScriviLeggi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <recent name="C:\Users\matte\BesidetechCorso\src\com\corso" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.File">
+  <component name="RunManager" selected="Application.MainScriviLeggi">
     <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corso.file.File" />
       <module name="Corso" />
@@ -123,8 +124,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.File" />
         <item itemvalue="Application.MainScriviLeggi" />
+        <item itemvalue="Application.File" />
         <item itemvalue="Application.Mainveicoli" />
         <item itemvalue="Application.MapExercise" />
         <item itemvalue="Application.MapExemple" />
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652450746056</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="solution exercise">
+      <created>1652696918463</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652696918463</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
