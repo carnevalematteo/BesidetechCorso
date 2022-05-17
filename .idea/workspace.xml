@@ -41,9 +41,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/corso" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/slf4j.jar/slf4j.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,19 +69,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashExemple" />
-      <module name="Corso" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LogClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gaetano.log.LogClass" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gaetano.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainScriviLeggi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corso.file.MainScriviLeggi" />
+      <module name="Corso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corso.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashExemple" />
       <item itemvalue="Application.HashExemple (1)" />
       <item itemvalue="Application.TreeSetExemple (1)" />
       <item itemvalue="Application.MapExemple" />
       <item itemvalue="Application.LogClass" />
+      <item itemvalue="Application.MainScriviLeggi" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LogClass" />
+        <item itemvalue="Application.MainScriviLeggi" />
         <item itemvalue="Application.MapExemple" />
         <item itemvalue="Application.TreeSetExemple (1)" />
         <item itemvalue="Application.HashExemple (1)" />
-        <item itemvalue="Application.HashExemple" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652084884843</updated>
+      <workItem from="1652769334541" duration="5335000" />
     </task>
     <task id="LOCAL-00001" summary="array exemple">
       <created>1652089349399</created>
@@ -199,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652359121044</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1652716505884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652716505884</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1652716518584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652716518584</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +248,17 @@
     <MESSAGE value="arguments" />
     <MESSAGE value="fix exercise" />
     <MESSAGE value="hash end tree set" />
-    <option name="LAST_COMMIT_MESSAGE" value="hash end tree set" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
