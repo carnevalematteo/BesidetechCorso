@@ -1,14 +1,14 @@
-mag 17, 2022 9:29:55 AM com.gaetano.log.Operazione moltiplicazione
+mag 30, 2022 11:41:13 AM com.gaetano.log.Operazione moltiplicazione
 INFORMAZIONI: Metodo inizializzato
-mag 17, 2022 9:29:55 AM com.gaetano.log.Operazione moltiplicazione
+mag 30, 2022 11:41:13 AM com.gaetano.log.Operazione moltiplicazione
 INFORMAZIONI: Operazione eseguita 15
-mag 17, 2022 9:29:55 AM com.gaetano.log.LogClass main
+mag 30, 2022 11:41:13 AM com.gaetano.log.LogClass main
 INFORMAZIONI: primo metodo eseguito
-mag 17, 2022 9:29:55 AM com.gaetano.log.Operazione pow
+mag 30, 2022 11:41:13 AM com.gaetano.log.Operazione pow
 INFORMAZIONI: Inzio del metodo
-mag 17, 2022 9:29:55 AM com.gaetano.log.Operazione pow
+mag 30, 2022 11:41:13 AM com.gaetano.log.Operazione pow
 AVVERTENZA: Operazione eseguita 9
-mag 17, 2022 9:29:55 AM com.gaetano.log.LogClass main
+mag 30, 2022 11:41:13 AM com.gaetano.log.LogClass main
 INFORMAZIONI: secondo metodo eseguito
-mag 17, 2022 9:29:55 AM com.gaetano.log.LogClass main
+mag 30, 2022 11:41:13 AM com.gaetano.log.LogClass main
 INFORMAZIONI: dammi mess

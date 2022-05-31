@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="hash end tree set">
+      <change afterPath="$PROJECT_DIR$/src/com/gaetano/serv/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gaetano/serv/StudentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/HashExemple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/HashExemple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corso/Utente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corso/Utente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +45,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/slf4j.jar/slf4j.jar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/json-simple-1.1.jar/json-simple-1.1.jar" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matte\BesidetechCorso\src\com\corso" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaeta\Corso\BesidetechCorso\src\com\gaetano\json" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LogClass">
-    <configuration name="HashExemple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corso.HashExemple" />
+  <component name="RunManager" selected="Application.JsonConfigParser">
+    <configuration name="JsonConfigParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.json.JsonConfigParser" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corso.*" />
+          <option name="PATTERN" value="com.gaetano.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashExemple (1)" />
       <item itemvalue="Application.TreeSetExemple (1)" />
       <item itemvalue="Application.MapExemple" />
       <item itemvalue="Application.LogClass" />
       <item itemvalue="Application.MainScriviLeggi" />
+      <item itemvalue="Application.JsonConfigParser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonConfigParser" />
         <item itemvalue="Application.LogClass" />
         <item itemvalue="Application.MainScriviLeggi" />
         <item itemvalue="Application.MapExemple" />
         <item itemvalue="Application.TreeSetExemple (1)" />
-        <item itemvalue="Application.HashExemple (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +149,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652084884843</updated>
-      <workItem from="1652769334541" duration="5350000" />
+      <workItem from="1652769334541" duration="6014000" />
+      <workItem from="1652878929061" duration="1218000" />
+      <workItem from="1652881465410" duration="1928000" />
+      <workItem from="1652949908410" duration="605000" />
+      <workItem from="1652962668811" duration="595000" />
+      <workItem from="1652968055392" duration="2215000" />
+      <workItem from="1653032751522" duration="1413000" />
+      <workItem from="1653055032843" duration="1330000" />
+      <workItem from="1653298326123" duration="266000" />
+      <workItem from="1653300293315" duration="415000" />
+      <workItem from="1653898551606" duration="17139000" />
+      <workItem from="1653982014632" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="array exemple">
       <created>1652089349399</created>
@@ -225,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652716518584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1652800152195</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652800152195</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1652800190802</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652800190802</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +286,11 @@
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/json/JsonConfigParser.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

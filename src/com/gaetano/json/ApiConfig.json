@@ -1,0 +1,31 @@
+[
+	{
+		"source" : "facebook",
+		"config" :
+			{  
+				"token":"EAAJXgoSRY5cBANSJhZArdwCpIyL9KvLcxZBjI95sYHn6KupKVfG6gbzQvZBMZA8B13tUHkOSTT7EYvFeqfS3P73SLxZBGVAMJacIUNrCzYzCoj5EndhaHxhK9ge8bSxnp9hEu8D4n3MCJeZC5hQz0bg7jiyQWaiWTeiNuqvPY9mwZDZD"
+			}
+	},
+
+	{
+		"source" : "twitter",
+		"config" :
+			{  
+				"token":"1232020789643313152-idhPKAZOwbbgH5LPTE6w9YaqBemdMo",
+				"secretToken":"o4cWlgK2XtRJhfetBmDFImwOKi2bUoV3VZlHbrmrCNgH8",
+				"consumer":"dU88qQQRF2OTaWsz66jOfIeeu",
+				"secretConsumer":"bfFqelsCBOdabCNeNS4YzEN18ilFGq898Pm6FXIK2jL8LdIl1g"
+			}
+	},
+	
+	{
+	     "source" : "web",
+	     "config":
+	        {
+	        "token":"AIzaSyDLI0pNUxRclWQ-lIA_qTwEBdE4QqBrzpc",
+	        "secretApp":"005938602341562117658:zdslc1vbgts"
+	        }
+	
+	
+	}
+]

@@ -2,6 +2,7 @@
   <library name="slf4j">
     <CLASSES>
       <root url="jar://$USER_HOME$/OneDrive/Desktop/slf4j.jar/slf4j.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/json-simple-1.1.jar/json-simple-1.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
