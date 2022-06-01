@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vehicle>
+  <motorbikes brand="Ducati">
+    <motoname type="roadseries">StreetFighter</motoname>
+    <motoname type="sportseries">SuperSport</motoname>
+  </motorbikes>
+</vehicle>

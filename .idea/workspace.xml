@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XPathExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaetano.xpathese.XPathExe" />
+    <configuration name="JsLang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.json.JsLang" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gaetano.xpathese.*" />
+          <option name="PATTERN" value="com.gaetano.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XPathReadElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaetano.xpathese.XPathReadElement" />
+    <configuration name="XPathExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.xpathese.XPathExe" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
@@ -135,17 +135,17 @@
     <list>
       <item itemvalue="Application.XPathExe" />
       <item itemvalue="Application.EseDom" />
-      <item itemvalue="Application.XPathReadElement" />
       <item itemvalue="Application.CreateDom" />
       <item itemvalue="Application.DomExample" />
+      <item itemvalue="Application.JsLang" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DomExample" />
+        <item itemvalue="Application.JsLang" />
         <item itemvalue="Application.CreateDom" />
         <item itemvalue="Application.EseDom" />
         <item itemvalue="Application.XPathExe" />
-        <item itemvalue="Application.XPathReadElement" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +170,7 @@
       <workItem from="1653898551606" duration="17139000" />
       <workItem from="1653982014632" duration="15284000" />
       <workItem from="1654004745402" duration="9167000" />
+      <workItem from="1654066320409" duration="8626000" />
     </task>
     <task id="LOCAL-00001" summary="array exemple">
       <created>1652089349399</created>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653988339038</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1654067604591</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654067604591</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

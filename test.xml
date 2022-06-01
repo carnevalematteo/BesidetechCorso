@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<class nome="tano"> 
-  <studente id="1"> 
-    <Nome>Mario</Nome>  
-    <Cognome>Rossi</Cognome>  
-    <email>mario@</email>  
-    <eta>38</eta> 
-  </studente>  
-  <studente id="2"> 
-    <Nome>Anna</Nome>  
-    <Cognome>Bianchi</Cognome>  
-    <email>anna@</email>  
-    <eta>40</eta> 
-  </studente>  
-  <studente id="3"> 
-    <Nome>Francesco</Nome>  
-    <Cognome>Verdi</Cognome>  
-    <email>verdi@</email>  
-    <eta>35</eta> 
-  </studente> 
+<class nome="tano">
+  <studente id="1">
+    <Nome>Mario</Nome>
+    <Cognome>Rossi</Cognome>
+    <email>mario@</email>
+    <eta>38</eta>
+  </studente>
+  <studente id="2">
+    <Nome>Anna</Nome>
+    <Cognome>Bianchi</Cognome>
+    <email>anna@</email>
+    <eta>40</eta>
+  </studente>
+  <studente id="3">
+    <Nome>Francesco</Nome>
+    <Cognome>Verdi</Cognome>
+    <email>verdi@</email>
+    <eta>35</eta>
+  </studente>
 </class>

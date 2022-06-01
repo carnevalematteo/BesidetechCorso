@@ -13,7 +13,7 @@ public class CreateDom {
         try {
             Document document = DocumentHelper.createDocument();
             Element root = document.addElement( "studente" );
-            Element cf = root.addElement("codice fiscale")
+            Element cf = root.addElement("codicefiscale")
                     .addAttribute("num","data").addText("mrn3r4cvn");
 
             OutputFormat format = OutputFormat.createPrettyPrint();
