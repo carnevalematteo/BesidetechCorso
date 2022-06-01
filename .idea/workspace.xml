@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb37bf-4db1-4284-b9f3-dad24644c2ae" name="Changes" comment="hash end tree set">
-      <change afterPath="$PROJECT_DIR$/src/com/gaetano/serv/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gaetano/serv/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gaetano/json/LanguageConfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gaetano/json/XPathExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Corso/com/gaetano/json/JsonConfigParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Corso/com/gaetano/json/JsonConfigParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gaetano/json/JsLang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaetano/json/JsLang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -41,11 +47,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/json-simple-1.1.jar/json-simple-1.1.jar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/jaxen-1.1.1.jar/jaxen-1.1.1.jar" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,13 +66,13 @@
       <recent name="C:\Users\gaeta\Corso\BesidetechCorso\src\com\gaetano\json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JsonConfigParser">
-    <configuration name="JsonConfigParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaetano.json.JsonConfigParser" />
+  <component name="RunManager" selected="Application.DomExample">
+    <configuration name="CreateDom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.dom4jese.CreateDom" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gaetano.json.*" />
+          <option name="PATTERN" value="com.gaetano.dom4jese.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaetano.log.LogClass" />
+    <configuration name="DomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.dom4jese.DomExample" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gaetano.log.*" />
+          <option name="PATTERN" value="com.gaetano.dom4jese.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainScriviLeggi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corso.file.MainScriviLeggi" />
+    <configuration name="EseDom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.dom4jese.EseDom" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corso.file.*" />
+          <option name="PATTERN" value="com.gaetano.dom4jese.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corso.MapExemple" />
+    <configuration name="XPathExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.xpathese.XPathExe" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corso.*" />
+          <option name="PATTERN" value="com.gaetano.xpathese.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExemple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corso.TreeSetExemple" />
+    <configuration name="XPathReadElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaetano.xpathese.XPathReadElement" />
       <module name="Corso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corso.*" />
+          <option name="PATTERN" value="com.gaetano.xpathese.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeSetExemple (1)" />
-      <item itemvalue="Application.MapExemple" />
-      <item itemvalue="Application.LogClass" />
-      <item itemvalue="Application.MainScriviLeggi" />
-      <item itemvalue="Application.JsonConfigParser" />
+      <item itemvalue="Application.XPathExe" />
+      <item itemvalue="Application.EseDom" />
+      <item itemvalue="Application.XPathReadElement" />
+      <item itemvalue="Application.CreateDom" />
+      <item itemvalue="Application.DomExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JsonConfigParser" />
-        <item itemvalue="Application.LogClass" />
-        <item itemvalue="Application.MainScriviLeggi" />
-        <item itemvalue="Application.MapExemple" />
-        <item itemvalue="Application.TreeSetExemple (1)" />
+        <item itemvalue="Application.DomExample" />
+        <item itemvalue="Application.CreateDom" />
+        <item itemvalue="Application.EseDom" />
+        <item itemvalue="Application.XPathExe" />
+        <item itemvalue="Application.XPathReadElement" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +168,8 @@
       <workItem from="1653298326123" duration="266000" />
       <workItem from="1653300293315" duration="415000" />
       <workItem from="1653898551606" duration="17139000" />
-      <workItem from="1653982014632" duration="1931000" />
+      <workItem from="1653982014632" duration="15284000" />
+      <workItem from="1654004745402" duration="9167000" />
     </task>
     <task id="LOCAL-00001" summary="array exemple">
       <created>1652089349399</created>
@@ -253,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652800190802</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1653988339038</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653988339038</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +287,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="array exemple" />
     <MESSAGE value="exception" />
     <MESSAGE value="arguments" />
@@ -290,6 +307,42 @@
           <url>file://$PROJECT_DIR$/src/com/gaetano/json/JsonConfigParser.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/json/JsLang.java</url>
+          <line>13</line>
+          <properties field="CONFIG_PATH_KEY" class="com.gaetano.json.JsLang" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/json/JsLang.java</url>
+          <line>12</line>
+          <properties field="CONFIG_FILE_NAME" class="com.gaetano.json.JsLang" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/json/JsLang.java</url>
+          <line>11</line>
+          <properties field="lista" class="com.gaetano.json.JsLang" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/xpathese/XPathExe.java</url>
+          <line>11</line>
+          <properties class="com.gaetano.xpathese.XPathExe" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/gaetano/dom4jese/DomExample.java</url>
+          <line>17</line>
+          <properties class="com.gaetano.dom4jese.DomExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

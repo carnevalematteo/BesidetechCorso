@@ -3,8 +3,14 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/OneDrive/Desktop/slf4j.jar/slf4j.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Desktop/json-simple-1.1.jar/json-simple-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/dom4j-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/jaxen-1.1.1.jar/jaxen-1.1.1.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/xpath-service-1.0.0.jar.zip!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/xpath-service-1.0.2-sources.jar/xpath-service-1.0.2-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

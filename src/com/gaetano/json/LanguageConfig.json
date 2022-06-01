@@ -1,0 +1,22 @@
+[ 
+	{
+		"source" : "italiano",
+		"config" : "it"
+	},
+
+	{
+		"source" : "inglese",
+		"config" : "en"
+	},
+	{
+		"source" : "spagnolo",
+		"config" : "es"
+	},
+		{
+		"source" : "francese",
+		"config" : "fr"
+	},
+	
+	
+	
+]
