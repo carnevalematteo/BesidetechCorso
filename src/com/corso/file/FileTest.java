@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class File {
+public class FileTest {
 
     static String pathAuto = "C:\\Users\\matte\\db1.txt";
 
